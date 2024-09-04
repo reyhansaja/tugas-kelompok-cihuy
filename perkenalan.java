@@ -10,5 +10,9 @@ public class perkenalan {
         System.out.println("Kelas\t: TI 1A");
         System.out.println("NIM\t: 244107020159");
         System.out.println("Tanggal Lahir\t: 12-01-2006");
+        System.out.println("Nama\t: Raihan Nur Pratama");
+        System.out.println("Kelas\t: TI 1A");
+        System.out.println("NIM\t: 244107020085");
+        System.out.println("Tanggal lahir: 13-07-2006");
     }
 }
